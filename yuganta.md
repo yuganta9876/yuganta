@@ -1,2 +1,0 @@
-# yuganta
-hello evry one
